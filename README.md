@@ -43,12 +43,3 @@ Marketplace tracker for Darker and Darker. Live listings, price history, underpr
 ### [cs293_final](https://github.com/desidj27/cs293_final)
 
 An early personal page from a CS course: a short bio, school info, and links to socials.
-
-## Run this site locally
-
-```bash
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
