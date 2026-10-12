@@ -20,10 +20,6 @@ Most of my recent work is TypeScript and Next.js. I like shipping things end to 
 
 ## Projects
 
-### [website](https://github.com/desidj27/website)
-
-This repository. A Next.js site that collects the projects below, with a short about section and links out to GitHub and LinkedIn. Live at [daviddesing.website](https://daviddesing.website).
-
 ### [MTG Pack Opener](https://github.com/desidj27/MTG-Web-Port)
 
 Open virtual Magic: The Gathering packs, flip through the reveal, and save what you pull. Card data comes from Scryfall, with pack art from the MTG Wiki. Live at [mtg.daviddesing.website](https://mtg.daviddesing.website/).
@@ -44,21 +40,9 @@ Discord server analytics. Tracks messages, voice time, and game activity, then p
 
 Marketplace tracker for Darker and Darker. Live listings, price history, underpriced-deal alerts, and a crafting calculator priced against current market data. Live at [bisloot.website](https://www.bisloot.website/).
 
-### [Mine & Reel](https://github.com/desidj27/RobloxGame)
-
-A Roblox mining and fishing simulator in Luau. Mine ore and fish for coins, hatch pets that boost your stats, and rebirth for a permanent multiplier.
-
-### [DegenerateBot Tracker](https://github.com/desidj27/DegenerateBotWebsite)
-
-Dashboard for browsing DegenerateBot’s tracked Discord data. Filter by channel, user, and time range, and look through categories and leaderboards.
-
 ### [cs293_final](https://github.com/desidj27/cs293_final)
 
 An early personal page from a CS course: a short bio, school info, and links to socials.
-
-### [lab7](https://github.com/desidj27/lab7)
-
-A Java Maven lab from a CS course, with JUnit tests.
 
 ## Run this site locally
 
